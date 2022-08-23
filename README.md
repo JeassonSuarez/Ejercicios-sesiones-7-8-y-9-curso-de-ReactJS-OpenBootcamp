@@ -9,3 +9,7 @@ Crear contacto.
 Eliminar contacto.
 
 Cambiar el estado del contacto entre Conectado y Desconectado.
+
+A continuacion una imgenen del proyecto funcional:
+
+![image](https://user-images.githubusercontent.com/66092398/186053595-b1b285c9-a57d-43a9-803b-86b2d056ea5d.png)
